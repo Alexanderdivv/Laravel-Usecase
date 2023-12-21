@@ -13,11 +13,11 @@
             <main class="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28">
                 <div class="sm:text-center lg:text-left">
                     <h1 class="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
-                        <span class="block xl:inline">Abdullah Al Hommada</span><br><br>
-                        <span class="block text-indigo-500 xl:inline"><span class="text-red-700 uppercase">f</span>ullstach <span class="text-red-700">w</span>eb <span class="text-red-700">d</span>eveloper</span>
+                        <span class="block xl:inline">Test Usecase Alex, December</span><br><br>
+                        <span class="block text-indigo-500 xl:inline"><span class="text-red-700 uppercase">k</span>ost <span class="text-red-700">n</span>ayla <span class="text-red-700">d</span>eveloper</span>
                     </h1>
                     <p class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                        Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, id animi. Amet excepturi nobis deserunt perspiciatis dignissimos, ad quasi ullam maiores, ipsum culpa, commodi impedit explicabo dolores. Dolorem, repellat optio.
                     </p>
                     <div class="mt-5 mb-10 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                         <div class="rounded-md shadow">
@@ -69,7 +69,7 @@
 
 <div class="text-center py-15 bg-grat-0">
     <h2 class="text-4xl font-bold py-10">
-        Abdout me
+        About me
     </h2>
 
     <p class="m-auto w-4/5 text-gray-500">
@@ -81,7 +81,7 @@
     <div class="flex bg-yellow-100 text-gray-900 ">
         <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block">
             <span class="uppercase text-l font-extrabold text-red-500">
-                Full stack web developer
+                Test Website Usecase Alex
             </span>
 
             <h3 class="text-xl font-bold py-10">
