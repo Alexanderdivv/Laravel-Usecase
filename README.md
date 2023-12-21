@@ -1,7 +1,9 @@
 # Laravel Crud App
 
 A simple crud App with Laravel 8, tailwind, blade.
+
 ##
+
 [click here to go to the web app](https://still-ravine-18094.herokuapp.com/)
 
 ## Installation
@@ -54,10 +56,11 @@ php artisan serve
 
 Then go to `http://localhost:8000` from your browser and see the app.
 
-## Read more
+## File :
 
-[click here if you want to read more about the steps to make this app ](https://aalhommada.medium.com/laravel-tailwindcss-blade-crud-app-b8748f7d8bcd)
+1. installationLaravel.bash used for installing depedencies to ubuntu server
+2. installLaravel,md is the main file to folllow to setup laravel on server
 
-## see more projects :
+## Ref :
 
 -   [aalhommada](https://github.com/aalhommada)
