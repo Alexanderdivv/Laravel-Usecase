@@ -17,9 +17,9 @@ sudo apt install mariadb-server -y
 sudo mysql -u root -p
 
 # create database
-CREATE DATABASE laravel_db;
+CREATE DATABASE laravel_crud;
 CREATE USER 'laravel_user'@'localhost' IDENTIFIED BY 'secretpassword';
-GRANT ALL ON laravel_db.* TO 'laravel_user'@'localhost';
+GRANT ALL ON laravel_crud.* TO 'laravel_user'@'localhost';
 FLUSH PRIVILEGES;
 QUIT;
 
@@ -28,10 +28,13 @@ curl -sS https://getcomposer.org/installer | php
 sudo mv composer.phar /usr/local/bin/composer
 sudo chmod +x /usr/local/bin/composer
 cd /var/www/html
-sudo composer create-project laravel/laravel laravelapp
+sudo composer create-project laravel/laravel laravelapp2
 
-sudo chown -R www-data:www-data /var/www/html/laravelapp
-sudo chmod -R 775 /var/www/html/laravelapp/storage
+sudo chown -R www-data:www-data /var/www/html/laravelapp2
+sudo chmod -R 775 /var/www/html/laravelapp2/storage
 
 cd laravelapp
 php artisan
+
+
+
